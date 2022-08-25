@@ -1,0 +1,2000 @@
+FORMAT
+
+{ROOM}
+	{QUESTION}
+		{ANSWER}
+	{QUESTION}
+		{ANSWER}
+	{QUESTION}
+		{ANSWER}
+
+
+
+Confidential
+	Uncover and scan the QR code to retrieve the flag!
+		flag{e08e6ce2f077a1b420cfd4a5d1a57a8d}
+
+
+
+Olympus
+	What is Flag 1?
+		flag{Sm4rt!_k33P_d1gGIng}
+	What is Flag 2?
+		flag{Y0u_G0t_TH3_l1ghtN1nG_P0w3R}
+	What is Flag 3?
+		flag{D4mN!_Y0u_G0T_m3_:)_}
+	What is Flag 4?
+		flag{Y0u_G0t_m3_g00d!}
+
+
+
+Annie
+	What is user.txt?
+	 	THM{N0t_Ju5t_ANY_D3sk}
+	What is root.txt?
+	 	THM{0nly_th3m_5.5.2_D3sk}
+
+
+
+CyberHeroes
+	Uncover the flag!
+		flag{edb0be532c540b1a150c3a7e85d2466e}
+
+
+
+Dig Dug
+	Retrieve the flag from the DNS server!
+		flag{0767ccd06e79853318f25aeb08ff83e2}
+
+
+
+Intro to Defensive Security
+	Which team focuses on defensive security?
+		Blue Team
+	What would you call a team of cyber security professionals that monitors a network and its systems for malicious events?
+		Security Operations Center
+	What does DFIR stand for?
+		Digital Forensics and Incident Response
+	Which kind of malware requires the user to pay money to regain access to their files?
+		ransomware
+	What is the flag that you obtained by following along?
+		THM{THREAT-BLOCKED}
+
+
+
+Intro to Offensive Security
+	When you've transferred money to your account, go back to your bank account page. What is the answer shown on your bank balance page? 
+		BANK-HACKED
+
+
+
+VulnNet: Active
+	What is the user flag? (Desktop\user.txt)
+		THM{3eb176aee96432d5b100bc93580b291e}
+	What is the system flag? (Desktop\system.txt)
+		THM{d540c0645975900e5bb9167aa431fc9b}
+
+
+
+Tech_Supp0rt: 1
+	What is the root.txt flag?
+		851b8233a8c09400ec30651bd1529bf1ed02790b
+
+
+
+0x41haz
+	What is the password?
+		THM{2@@25$gfsT&@L}
+
+
+
+Oh My WebServer
+	What is the user flag?
+		THM{eacffefe1d2aafcc15e70dc2f07f7ac1}
+	What is the root flag?
+		THM{7f147ef1f36da9ae29529890a1b6011f}
+
+
+
+Flatline
+	What is the user.txt flag?
+		THM{64bca0843d535fa73eecdc59d27cbe26}
+	What is the root.txt flag?
+		THM{8c8bc5558f0f3f8060d00ca231a9fb5e}
+
+
+
+Plotted-TMS
+	What is user.txt?
+		77927510d5edacea1f9e86602f1fbadb
+	What is root.txt?
+		53f85e2da3e874426fa059040a9bdcab
+
+
+
+Gallery
+	How many ports are open?
+		2
+	What's the name of the CMS?
+		Simple Image Gallery
+	What's the hash password of the admin user?
+		a228b12a08b6527e7978cbe5d914531c
+	What's the user flag?
+		THM{af05cd30bfed67849befd546ef}
+	What's the root flag?
+		THM{ba87e0dfe5903adfa6b8b450ad7567bafde87}
+
+
+
+Dear QA
+	What is the binary architecture?
+		x64
+	What is the flag?
+		THM{PWN_1S_V3RY_E4SY}
+
+
+
+Lumberjack Turtle
+	What is the first flag?
+		THM{LOG4SHELL_FTW}
+	What is the "real" root flag?
+		THM{C0NT41N3R_3SC4P3_FTW}
+
+
+
+Conti
+	Can you identify the location of the ransomware?
+		C:\Users\Administrator\Documents\cmd.exe
+	What is the Sysmon event ID for the related file creation event?
+		11
+	Can you find the MD5 hash of the ransomware?
+		290c7dfb01e50cea9e19da81a781af2c
+	What file was saved to multiple folder locations?
+		readme.txt
+	What was the command the attacker used to add a new user to the compromised system?
+		net user /add securityninja hardToHack123$
+	The attacker migrated the process for better persistence. What is the migrated process image (executable), and what is the original process image (executable) when the attacker got on the system?
+		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe,C:\Windows\System32\wbem\unsecapp.exe
+	The attacker also retrieved the system hashes. What is the process image used for getting the system hashes?
+		C:\Windows\System32\lsass.exe
+	What is the web shell the exploit deployed to the system?
+		i3gfPctK1c2x.aspx
+	What is the command line that executed this web shell?
+		attrib.exe  -r \\\\win-aoqkg2as2q7.bellybear.local\C$\Program Files\Microsoft\Exchange Server\V15\FrontEnd\HttpProxy\owa\auth\i3gfPctK1c2x.aspx
+	What three CVEs did this exploit leverage?
+		CVE-2020-0796,CVE-2018-13374,CVE-2018-13379
+
+
+
+Road
+	What is the user.txt flag?
+		63191e4ece37523c9fe6bb62a5364d45
+	What is the root.txt flag?
+		3a62d897c40a815ecbe267df2f533ac6
+
+
+
+SafeZone
+	user flag
+	 	THM{c296539f3286a899d8b3f6632fd62274}
+	root flag
+		THM{63a9f0ea7bb98050796b649e85481845}
+
+
+
+CyberCrafted
+	Ready.. Set...
+	 	Go
+	How many ports are open?
+	  	3
+	What service runs on the highest port?
+	  	minecraft
+	Any subdomains? (Alphabetical order)
+	  	admin store www
+	On what page did you find the vulnerability?
+	  	search.php
+	What is the admin's username? (Case-sensitive)
+	  	xXUltimateCreeperXx
+	What is the web flag?
+	  	THM{bbe315906038c3a62d9b195001f75008}
+	Can you get the Minecraft server flag?
+	  	THM{ba93767ae3db9f5b8399680040a0c99e}
+	What is the name of the sketchy plugin?
+	  	LoginSystem
+	What is the user's flag?
+	  	THM{b4aa20aaf08f174473ab0325b24a45ca}
+	Finish the job and give me the root flag!
+		THM{8bb1eda065ceefb5795a245568350a70}
+
+
+
+IDE
+	user.txt
+		02930d21a8eb009f6d26361b2d24a466
+	root.txt
+		ce258cb16f47f1c66f0b0b77f4e0fb8d
+
+
+
+Bypass Disable Functions
+	Compromise the machine and locate the flag.txt
+		thm{bypass_d1sable_functions_1n_php}
+
+
+
+
+Wordpress: CVE-2021-29447
+	Based on the results of #1, what is the name of the database for WordPress?
+		wordpressdb2
+	Based on the results of #1, what are the credentials you found?
+		thedarktangent:sUp3rS3cret132
+	Enumerate and identify what is the dbms installed on the server?
+		mysql
+	Based on the results of #4, what is the dbms version installed on the server?
+		5.7.33
+	Based on the results of #4, what port is the dbms running on?
+		3306
+	Compromise the dbms, What is the encrypted password located in the wordpress  users table with id 1??
+		$P$B4fu6XVPkSU5KcKUsP1sD3Ul7G3oae1
+	Based on the results of #7, What is the password in plaint text?
+		teddybear
+	Compromise the machine and locate flag.txt
+		thm{28bd2a5b7e0586a6e94ea3e0adbd5f2f16085c72}
+
+
+
+Uranium CTF
+	What is the required password for the chat app?
+		MBMD1vdpjg3kGv6SsIz56VNG
+	What is the password of hakanbey user?
+		Mys3cr3tp4sw0rD
+	user_1.txt
+		thm{2aa50e58fa82244213d5438187c0da7c}
+	user_2.txt
+		thm{804d12e6d16189075db2d45449aeda5f}
+	web_flag.txt
+		thm{019d332a6a223a98b955c160b3e6750a}
+	root.txt
+		thm{81498047439cc0426bafa1db5da699cd}
+
+
+
+CMSpit
+	What is the name of the Content Management System (CMS) installed on the server?
+		cockpit
+	What is the version of the Content Management System (CMS) installed on the server?
+		0.11.1
+	What is the path that allow user enumeration?
+		/auth/check
+	How many users can you identify when you reproduce the user enumeration attack?
+		4
+	What is the path that allows you to change user account passwords?
+		/auth/resetpassword
+	Compromise the Content Management System (CMS). What is Skidy's email.
+		skidy@tryhackme.fakemail
+	What is the web flag?
+		thm{f158bea70731c48b05657a02aaf955626d78e9fb}
+	Compromise the machine and enumerate collections in the document database installed in the server. What is the flag in the database?
+		thm{c3d1af8da23926a30b0c8f4d6ab71bf851754568}
+	What is the user.txt flag?
+		thm{c5fc72c48759318c78ec88a786d7c213da05f0ce}
+	What is the CVE number for the vulnerability affecting the binary assigned to the system user? Answer format: CVE-0000-0000
+		CVE-2021-22204
+	What is the utility used to create the PoC file?
+		djvumake
+	Escalate your privileges. What is the flag in root.txt?
+		thm{bf52a85b12cf49b9b6d77643771d74e90d4d5ada}
+
+
+
+Sweettooth Inc.
+	Do a TCP portscan. What is the name of the database software running on one of these ports?
+		influxdb
+	What is the database user you find?
+		o5yY6yya
+	What was the temperature of the water tank at 1621346400 (UTC Unix Timestamp)?
+		22.5
+	What is the highest rpm the motor of the mixer reached?
+		4875
+	What username do you find in one of the databases?
+		uzJk6Ry98d8C
+	user.txt
+		THM{V4w4FhBmtp4RFDti}
+	/root/root.txt
+		THM{5qsDivHdCi2oabwp}
+	The second /root/root.txt
+		THM{nY2ZahyFABAmjrnx}
+
+
+
+Metamorphosis
+	user.txt
+		4ce794a9d0019c1f684e07556821e0b0
+	root.txt
+		7ffca2ec63534d165525bf37d91b4ff4
+
+
+
+RazorBlack
+	What is the Domain Name?
+		raz0rblack.thm
+	What is Steven's Flag? 
+		THM{ab53e05c9a98def00314a14ccbfa8104}
+	What is the zip file's password?
+		electromagnetismo
+	What is Ljudmila's Hash?
+		f220d3988deb3f516c73f40ee16c431d
+	What is Ljudmila's Flag?
+		THM{694362e877adef0d85a92e6d17551fe4}
+	What is Xyan1d3's password?
+		cyanide9amine5628
+	What is Xyan1d3's Flag?
+		THM{62ca7e0b901aa8f0b233cade0839b5bb}
+	What is the root Flag?
+		THM{1b4f46cc4fba46348273d18dc91da20d}
+	What is Tyson's Flag?
+		THM{5144f2c4107b7cab04916724e3749fb0}
+	What is the complete top secret?
+		:wq
+	Did you like your cookie?
+		Yes
+
+
+
+Fortress
+	What is the flag in user.txt?
+		84589a1bb8a932e46643b242a55489c0
+	Escalate your privileges, what is the flag in root.txt?
+		3a17cfcca1aabc245a2d5779615643ae
+
+
+
+Cold VVars
+	User.txt
+		ae39f419ce0a3a26f15db5aaa7e446ff
+	Root.txt
+		42f191b937ea71cd2052a06a7a08585a
+
+
+
+Couch
+	Scan the machine. How many ports are open?
+		2
+	What is the database management system installed on the server?
+		couchdb
+	What port is the database management system running on?
+		5984
+	What is the version of the management system installed on the server?
+		1.6.1
+	What is the path for the web administration tool for this database management system?
+		_utils
+	What is the path to list all databases in the web browser of the database management system?
+		_all_dbs
+	What are the credentials found in the web administration tool?
+		atena:t4qfzcc4qN##
+	Compromise the machine and locate user.txt
+		THM{1ns3cure_couchdb}
+	Escalate privileges and obtain root.txt
+		THM{RCE_us1ng_Docker_API}
+
+
+
+Juicy Details
+	Are you ready?
+		I am ready!
+	What tools did the attacker use? (Order by the occurrence in the log)
+		nmap, hydra, sqlmap, curl, feroxbuster
+	What endpoint was vulnerable to a brute-force attack?
+		/rest/user/login
+	What endpoint was vulnerable to SQL injection?
+		/rest/products/search
+	What parameter was used for the SQL injection?
+		q
+	What endpoint did the attacker try to use to retrieve files? (Include the /)
+		/ftp
+	What section of the website did the attacker use to scrape user email addresses?
+		product reviews
+	Was their brute-force attack successful? If so, what is the timestamp of the successful login? (Yay/Nay, 11/Apr/2021:09:xx:xx +0000)
+		Yay, 11/Apr/2021:09:16:31 +0000
+	What user information was the attacker able to retrieve from the endpoint vulnerable to SQL injection?
+		email, password
+	What files did they try to download from the vulnerable endpoint? (endpoint from the previous task, question #5)
+		coupons_2013.md.bak, www-data.bak
+	What service and account name were used to retrieve files from the previous question? (service, username)
+		ftp, anonymous
+	What service and username were used to gain shell access to the server? (service, username)
+		ssh, www-data
+
+
+
+That's The Ticket
+	What is IT Supports email address?
+		adminaccount@itsupport.thm
+	Admin users password
+		123123
+	Flag inside Ticket 1
+		THM{6804f45260135ec8418da2d906328473}
+
+
+
+Disk Analysis & Autopsy
+	What is the MD5 hash of the E01 image?
+		3f08c518adb3b5c1359849657a9b2079
+	What is the computer account name?
+		DESKTOP-0R59DJ3
+	List all the user accounts. (alphabetical order)
+		H4S4N,joshwa,keshav,sandhya,shreya,sivapriya,srini,suba
+	Who was the last user to log into the computer?
+		sivapriya
+	What was the IP address of the computer?
+		192.168.130.216
+	What was the MAC address of the computer? (XX-XX-XX-XX-XX-XX)
+		08-00-27-2c-c4-b9
+	Name the network cards on this computer.
+		Intel(R) PRO/1000 MT Desktop Adapter
+	What is the name of the network monitoring tool?
+		Look@LAN
+	A user bookmarked a Google Maps location. What are the coordinates of the location?
+		12°52'23.0"N 80°13'25.0"E
+	A user has his full name printed on his desktop wallpaper. What is the user's full name?
+		Anto Joshwa
+	A user had a file on her desktop. It had a flag but she changed the flag using PowerShell. What was the first flag?
+		flag{HarleyQuinnForQueen}
+	The same user found an exploit to escalate privileges on the computer. What was the message to the device owner?
+		flag{I-hacked-you}
+	2 hack tools focused on passwords were found in the system. What are the names of these tools? (alphabetical order)
+		Lazagne,Mimikatz
+	There is a YARA file on the computer. Inspect the file. What is the name of the author?
+		Benjamin DELPY (gentilkiwi)
+	One of the users wanted to exploit a domain controller with an MS-NRPC based exploit. What is the filename of the archive that you found? (include the spaces in your answer) 
+		2.2.0 20200918 Zerologon encrypted.zip
+
+
+
+VulnNet: Roasted
+	What is the user flag? (Desktop\user.txt)
+		THM{726b7c0baaac1455d05c827b5561f4ed}
+	What is the system flag? (Desktop\system.txt)
+		THM{16f45e3934293a57645f8d7bf71d8d4c}
+
+
+
+VulnNet: Internal
+	What is the services flag? (services.txt)
+		THM{0a09d51e488f5fa105d8d866a497440a}
+	What is the internal flag? ("internal flag")
+		THM{ff8e518addbbddb74531a724236a8221}
+	What is the user flag? (user.txt)
+		THM{da7c20696831f253e0afaca8b83c07ab}
+	What is the root flag? (root.txt)
+		THM{e8996faea46df09dba5676dd271c60bd}
+
+
+
+Cooctus Stories
+	Paradox is nomming cookies
+		THM{2dccd1ab3e03990aea77359831c85ca2}
+	Find out what Szymex is working on
+		THM{c89f9f4ef264e22001f9a9c3d72992ef}
+	Find out what Tux is working on
+		THM{592d07d6c2b7b3b3e7dc36ea2edbd6f1}
+	Find out what Varg is working on
+		THM{3a33063a4a8a5805d17aa411a53286e6}
+	Get full root privileges
+		THM{H4CK3D_BY_C00CTUS_CL4N}
+
+
+
+Sakura Room
+	Are you ready to begin? 
+		Let's Go!
+	What username does the attacker go by?
+		SakuraSnowAngelAiko
+	What is the full email address used by the attacker?
+		SakuraSnowAngel83@protonmail.com
+	What is the attacker's full real name? 
+		Aiko Abe
+	What cryptocurrency does the attacker own a cryptocurrency wallet for? 
+		Ethereum
+	What is the attacker's cryptocurrency wallet address?
+		0xa102397dbeeBeFD8cD2F73A89122fCdB53abB6ef
+	What mining pool did the attacker receive payments from on January 23, 2021 UTC?
+		Ethermine
+	What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet?
+		Tether
+	What is the attacker's current Twitter handle?
+		SakuraLoverAiko
+	What is the URL for the location where the attacker saved their WiFi  SSIDs and passwords?
+		http://depasteon6cqgrykzrgya52xglohg5ovyuyhte3ll7hzix7h5ldfqsyd.onion/show.php?md5=0a5c6e136a98a60b8a21643ce8c15a74
+	What is the BSSID for the attacker's Home WiFi?
+		84:af:ec:34:fc:f8
+	What airport is closest to the location the attacker shared a photo from prior to getting on their flight?
+		DCA
+	What airport did the attacker have their last layover in?
+		HND
+	What lake can be seen in the map shared by the attacker as they were on their final flight home?
+		Lake Inawashiro
+	What city does the attacker likely consider "home"?
+		Hirosaki
+
+
+
+VulnNet: dotpy
+	What is the user flag? (user.txt) 
+		THM{91c7547864fa1314a306f82a14cd7fb4}
+	What is the root flag? (root.txt)
+		THM{734c7c2f0a23a4f590aa8600676021fb}
+
+
+
+Memory Forensics
+	What is John's password? 
+		charmander999
+	When was the machine last shutdown?
+		2020-12-27 22:50:12
+	What did John write?
+		You_found_me
+	What is the TrueCrypt passphrase?
+		forgetmenot
+
+
+
+GLITCH
+	What is your access token?
+		this_is_not_real
+	What is the content of user.txt?
+		THM{i_don't_know_why}
+	What is the content of root.txt?
+		THM{diamonds_break_our_aching_minds}
+
+
+
+Debug
+	user.txt
+		7e37c84a66cc40b1c6bf700d08d28c20
+	root.txt
+		3c8c3d0fe758c320d158e32f68fabf4b
+
+
+
+VulnNet: dotjar
+	What is the user flag? (user.txt)
+		THM{1ae87fa6ec2cd9f840c68cbad78e9351}
+	What is the root flag? (root.txt)
+		THM{464c29e3ffae05c2e67e6f0c5064759c}
+
+
+
+VulnNet
+	What is the user flag? (user.txt) 
+		THM{907e420d979d8e2992f3d7e16bee1e8b}
+	What is the root flag? (root.txt)
+		THM{220b671dd8adc301b34c2738ee8295ba}
+
+
+
+h4cked
+	The attacker is trying to log into a specific service. What service is this?
+		FTP
+	There is a very popular tool by Van Hauser which can be used to brute force a series of services. What is the name of this tool? 
+		Hydra
+	The attacker is trying to log on with a specific username. What is the username?
+		Jenny
+	What is the user's password?
+		password123
+	What is the current FTP working directory after the attacker logged in?
+		/var/www/html
+	The attacker uploaded a backdoor. What is the backdoor's filename?
+		shell.php
+	The backdoor can be downloaded from a specific URL, as it is located inside the uploaded file. What is the full URL?
+		http://pentestmonkey.net/tools/php-reverse-shell
+	Which command did the attacker manually execute after getting a reverse shell?
+		whoami
+	What is the computer's hostname? 
+		wir3
+	Which command did the attacker execute to spawn a new TTY shell?
+		python3 -c 'import pty; pty.spawn("/bin/bash")'
+	Which command was executed to gain a root shell?
+		sudo su
+	The attacker downloaded something from GitHub. What is the name of the GitHub project?
+		Reptile
+	The project can be used to install a stealthy backdoor on the system. It can be very hard to detect. What is this type of backdoor called?
+		Rootkit
+	Read the flag.txt file inside the Reptile directory
+		ebcefd66ca4b559d17b440b6e67fd0fd
+
+
+
+broker
+	Do a TCP portscan on all ports with port number greater than 1000 and smaller than 10000! Which TCP ports do you find to be open? (counting up)
+		1883,8161
+	What is the name of the software they use?
+		ActiveMQ
+	Which videogame are Paul and Max talking about?
+		Hacknet
+	flag.txt 
+		THM{you_got_a_m3ss4ge}
+	root.txt
+		THM{br34k_br0k3_br0k3r}
+
+
+
+Wekor
+	What is the user flag?
+		1a26a6d51c0172400add0e297608dec6
+	What is the root flag?
+		f4e788f87cc3afaecbaf0f0fe9ae6ad7
+
+
+
+Team
+	user.txt
+		THM{6Y0TXHz7c2d}
+	root.txt
+		THM{fhqbznavfonq}
+
+
+
+JPGChat
+	Establish a foothold and get user.txt
+		JPC{487030410a543503cbb59ece16178318}
+	Escalate your privileges to root and read root.txt
+		JPC{665b7f2e59cf44763e5a7f070b081b0a}
+
+
+
+Lunizz CTF
+	What is the default password for mysql
+		CTF_script_cave_changeme
+	I can't run commands, there must be a mysql column that controls command executer
+		run
+	a folder shouldn't be... 
+		proct
+	hi adam, do you remember our place?
+		northern lights
+	user.txt
+		thm{23cd53cbb37a37a74d4425b703d91883}
+	root.txt
+		thm{ad23b9c63602960371b50c7a697265db}
+
+
+
+magician
+	user.txt
+		THM{simsalabim_hex_hex}
+	root.txt
+		THM{magic_may_make_many_men_mad}
+
+
+
+WebOSINT
+	What is the name of the company the domain was registered with? 
+		Namecheap Inc
+	What phone number is listed for the registration company? (do not include country code or special characters/spaces)
+		6613102107
+	What is the first nameserver listed for the site?
+		ns1.brainydns.com
+	What is listed for the name of the registrant?
+		redacted for privacy
+	What country is listed for the registrant?
+		Panama
+	What is the first name of the blog's author? 
+		Steve
+	What city and country was the author writing from?
+		Gwangju, South Korea
+	[Research] What is the name (in English) of the temple inside the National Park the author frequently visits?
+		Jeungsimsa Temple
+	What was RepublicOfKoffee.com's IP address as of October 2016?
+		173.248.188.152
+	Based on the other domains hosted on the same IP address, what kind of hosting service can we safely assume our target uses?
+		shared
+	How many times has the IP address changed in the history of the domain?
+		4
+	What is the second nameserver listed for the domain?
+		NS2.HEAT.NET
+	What IP address was the domain listed on as of December 2011?
+		72.52.192.240
+	Based on domains that share the same IP, what kind of hosting service is the domain owner using?
+		shared
+	On what date did was the site first captured by the internet archive? (MM/DD/YY format)
+		06/01/97
+	What is the first sentence of the first body paragraph from the final capture of 2001?
+		After years of great online gaming, it’s time to say good-bye.
+	Using your search engine skills, what was the name of the company that was responsible for the original version of the site?
+		SegaSoft
+	What does the first header on the site on the last capture of 2010 say?
+		Heat.net – Heating and Cooling
+	How many internal links are in the text of the article?
+		5
+	How many external links are in the text of the article?
+		1
+	Website in the article's only external link ( that isn't an ad)
+		purchase.org
+	Try to find the Google Analytics code linked to the site
+		UA-251372-24
+	Is the the Google Analytics code in use on another website? Yay or nay
+		nay
+	Does the link to this website have any obvious affiliate codes embedded with it? Yay or Nay
+		Nay
+	Use the tools in Task 4 to confirm the link between the two sites. Try hard to figure it out without the hint.
+		Liquid Web, L.L.C
+
+
+
+Watcher
+	Flag 1
+		FLAG{robots_dot_text_what_is_next}
+	Flag 2
+		FLAG{ftp_you_and_me}
+	Flag 3
+		FLAG{lfi_what_a_guy}
+	Flag 4
+		FLAG{chad_lifestyle}
+	Flag 5
+		FLAG{live_by_the_cow_die_by_the_cow}
+	Flag 6
+		FLAG{but_i_thought_my_script_was_secure}
+	Flag 7
+		FLAG{who_watches_the_watchers}
+
+
+
+Inferno
+	Locate and find local.txt
+		77f6f3c544ec0811e2d1243e2e0d1835
+	Locate and find proof.txt
+		f332678ed0d0767d7434b8516a7c6144
+
+
+
+Investigating Windows 2.0
+	What registry key contains the same command that is executed within a scheduled task?
+		HKCU\Environment\UserIntMprLogonScript
+	What analysis tool will immediately close if/when you attempt to launch it?
+		procexp64.exe
+	What is the full WQL Query associated with this script?
+		SELECT * FROM Win32_ProcessStartTrace WHERE ProcessName = 'procexp64.exe'	
+	What is the script language?
+		VBScript
+	What is the name of the other script?
+		LaunchBeaconingBackdoor
+	What is the name of the software company visible within the script?
+		Motobit Software
+	What 2 websites are associated with this software company? (answer, answer)
+		http://www.motobit.com, http://motobit.cz
+	Search online for the name of the script from Q5 and one of the websites from the previous answer. What attack script comes up in your search?
+		WMIBackdoor.ps1
+	What is the location of this file within the local machine?
+		C:\TMP
+	Which 2 processes open and close very quickly every few minutes? (answer, answer)
+		mim.exe, powershell.exe
+	What is the parent process for these 2 processes?
+		svchost.exe
+	What is the first operation for the first of the 2 processes?
+		Process Start
+	Inspect the properties for the 1st occurrence of this process. In the Event tab what are the 4 pieces of information displayed? (answer, answer, answer, answer)
+		Parent PID, Command line, Current directory, Environment
+	Inspect the disk operations, what is the name of the unusual process?
+		No process
+	Run Loki. Inspect the output. What is the name of the module after `Init`?
+		WMIScan
+	Regarding the 2nd warning, what is the name of the eventFilter?
+		ProcessStartTrigger
+	For the 4th warning, what is the class name?
+		__FilterToConsumerBinding
+	What binary alert has the following 4d5a90000300000004000000ffff0000b8000000 as FIRST_BYTES?
+		nbtscan.exe
+	According to the results, what is the description listed for reason 1?
+		Known Bad / Dual use classics
+	Which binary alert is marked as APT Cloaked?
+		p.exe
+	What are the matches? (str1, str2)
+		psexesvc.exe, Sysinternals PsExec
+	Which binary alert is associated with somethingwindows.dmp found in C:\TMP?
+		schtasks-backdoor.ps1
+	Which binary is encrypted that is similar to a trojan?
+		xCmd.exe
+	There is a binary that can masquerade itself as a legitimate core Windows process/image. What is the full path of this binary?
+		C:\Users\Public\svchost.exe
+	What is the full path location for the legitimate version?
+		C:\Windows\System32
+	What is the description listed for reason 1?
+		Stuff running where it normally shouldn't
+	There is a file in the same folder location that is labeled as a hacktool. What is the name of the file?
+		en-US.js
+	What is the name of the Yara Rule MATCH?
+		CACTUSTORCH
+	Which binary didn't show in the Loki results?
+		mim.exe
+	Complete the yar rule file located within the Tools folder on the Desktop. What are 3 strings to complete the rule in order to detect the binary Loki didn't hit on? (answer, answer, answer)
+		mk.ps1, mk.exe, v2.0.50727
+
+
+
+Classic Passwd
+	What is the flag?
+		THM{65235128496}
+
+
+
+Archangel
+	Find a different hostname 
+		mafialive.thm
+	Find flag 1
+		thm{f0und_th3_r1ght_h0st_n4m3}
+	Look for a page under development
+		test.php
+	Find flag 2
+		thm{explo1t1ng_lf1}
+	Get a shell and find the user flag
+		thm{lf1_t0_rc3_1s_tr1cky}
+	Get User 2 flag 
+		thm{h0r1zont4l_pr1v1l3g3_2sc4ll4t10n_us1ng_cr0n}
+	Root the machine and find the root flag
+		thm{p4th_v4r1abl3_expl01tat1ion_f0r_v3rt1c4l_pr1v1l3g3_3sc4ll4t10n}
+
+
+
+Madeye's Castle
+	User1.txt 
+		RME{th3-b0Y-wHo-l1v3d-f409da6f55037fdc}
+	User2.txt
+		RME{p1c0-iZ-oLd-sk00l-nANo-64e977c63cb574e6}
+	Root.txt
+		RME{M@rK-3veRy-hOur-0135d3f8ab9fd5bf}
+
+
+
+Cyborg
+	Scan the machine, how many ports are open?
+		2
+	What service is running on port 22?
+		ssh
+	What service is running on port 80?
+		http
+	What is the user.txt flag?
+		flag{1_hop3_y0u_ke3p_th3_arch1v3s_saf3}
+	What is the root.txt flag?
+		flag{Than5s_f0r_play1ng_H0p£_y0u_enJ053d}
+
+
+
+Dunkle Materie
+	Provide the two PIDs spawned from the malicious executable. (In the order as they appear in the analysis tool)
+		8644, 7128
+	Provide the full path where the ransomware initially got executed? (Include the full path in your answer)
+		C:\users\sales\appdata\local\temp\exploreer.exe
+	This ransomware transfers the information about the compromised system and the encryption results to two domains over HTTP POST. What are the two C2 domains? (no space in the answer)
+		mojobiden.com,paymenthacks.com
+	What are the IPs of the malicious domains? (no space in the answer)
+		146.112.61.108, 206.188.197.206
+	Provide the user-agent used to transfer the encrypted data to the C2 channel.
+		Firefox/89.0
+	Provide the cloud security service that blocked the malicious domain.
+		Cisco Umbrella
+	Provide the name of the bitmap that the ransomware set up as a desktop wallpaper.
+		ley9kpi9r.bmp
+	Find the PID (Process ID) of the process which attempted to change the background wallpaper on the victim's machine.
+		4892
+	The ransomware mounted a drive and assigned it the letter. Provide the registry key path to the mounted drive, including the drive letter.
+		HKLM\SYSTEM\MountedDevices\DosDevices\Z:
+	Now you have collected some IOCs from this investigation. Provide the name of the ransomware used in the attack. (external research required)
+		Blackmatter Ransomware
+
+
+
+Chocolate Factory
+	Enter the key you found!
+		b'-VkgXhFf6sAEcAwrC6YR-SZbiuSb8ABXeQuvhcGSQzY='
+	What is Charlie's password?
+		cn7824
+	Enter the user flag
+		flag{cd5509042371b34e4826e4838b522d2e}
+	Enter the root flag
+		flag{cec59161d338fef787fcb4e296b42124}
+
+
+
+Overpass 3 - Hosting
+	Web Flag
+		thm{0ae72f7870c3687129f7a824194be09d}
+	User Flag
+		thm{3693fc86661faa21f16ac9508a43e1ae}
+	Root flag
+		thm{a4f6adb70371a4bceb32988417456c44}
+
+
+
+ColddBox: Easy
+	user.txt
+		RmVsaWNpZGFkZXMsIHByaW1lciBuaXZlbCBjb25zZWd1aWRvIQ==
+	root.txt
+		wqFGZWxpY2lkYWRlcywgbcOhcXVpbmEgY29tcGxldGFkYSE=
+
+
+
+Searchlight - IMINT
+	Did you understand the flag format?
+		sl{ready}
+	What is the name of the street where this image was taken?
+		sl{carnaby street}
+	Which city is the tube station located in?
+		sl{london}
+	Which tube station do these stairs lead to?
+		sl{piccadilly circus}
+	Which year did this station open?
+		sl{1906}
+	How many platforms are there in this station?
+		sl{4}
+	Which building is this photo taken in?
+		sl{vancouver international airport}
+	Which country is this building located in?
+		sl{canada}
+	Which city is this building located in?
+		sl{richmond}
+	Which city is this coffee shop located in?
+		sl{blairgowrie}
+	Which street is this coffee shop located in?
+		sl{allan street}
+	What is their phone number?
+		sl{+447878 839128}
+	What is their email address?
+		sl{theweecoffeeshop@aol.com}
+	What is the surname of the owners?
+		sl{cochrane}
+	Which restaurant was this picture taken at?
+		sl{katz's deli}
+	What is the name of the Bon Appétit editor that worked 24 hours at this restaurant?
+		sl{andrew knowlton}
+	What is the name of this statue?
+		sl{rudolph the chrome nosed reindeer}
+	Who took this image?
+		sl{kjersti stensrud}
+	What is the name of the character that the statue depicts?
+		sl{lady justice}
+	where is this statue located?
+		sl{alexandria, virginia}
+	What is the name of the building opposite from this statue?
+		sl{the westin alexandria old town}
+	What is the name of the hotel that my friend stayed in a few years ago?
+		sl{novotel singapore clarke quay}
+
+
+
+All in One
+	user.txt
+		THM{49jg666alb5e76shrusn49jg666alb5e76shrusn}
+	root.txt
+		THM{uem2wigbuem2wigb68sn2j1ospi868sn2j1ospi8}
+
+
+
+Unbaked Pie
+	User Flag
+		THM{ce778dd41bec31e1daed77ebebcd7423}
+	Root Flag
+		THM{1ff4c893b3d8830c1e188a3728e90a5f}
+
+
+
+Bookstore
+	User flag
+		4ea65eb80ed441adb68246ddf7b964ab
+	Root flag
+		e29b05fba5b2a7e69c24a450893158e3
+
+
+
+Chill Hack
+	User Flag
+		{USER-FLAG: e8vpd3323cfvlp0qpxxx9qtr5iq37oww}
+	Root Flag
+		{ROOT-FLAG: w18gfpn9xehsgd3tovhk0hby4gdp89bg}
+
+
+
+Startup
+	What is the secret spicy soup recipe?
+		love
+	What are the contents of user.txt?
+		THM{03ce3d619b80ccbfb3b7fc81e46c0e79}
+	What are the contents of root.txt?
+		THM{f963aaa6a430f210222158ae15c3d76d}
+
+
+
+Brute It
+	How many ports are open?
+		2
+	What version of SSH is running?
+		OpenSSH 7.6p1
+	What version of Apache is running?
+		2.4.29
+	Which Linux distribution is running?
+		Ubuntu
+	What is the hidden directory?
+		/admin
+	What is the user:password of the admin panel?
+		admin:xavier
+	What is John's RSA Private Key passphrase?
+		rockinroll
+	user.txt
+		THM{a_password_is_not_a_barrier}
+	Web flag
+		THM{brut3_f0rce_is_e4sy}
+	What is the root's password?
+		football
+	root.txt
+		THM{pr1v1l3g3_3sc4l4t10n}
+
+
+
+The Server From Hell
+	flag.txt 
+		thm{h0p3_y0u_l1k3d_th3_f1r3w4ll}
+	user.txt
+		thm{sh3ll_3c4p3_15_v3ry_1337}
+	root.txt
+		thm{w0w_n1c3_3sc4l4t10n}
+
+
+
+Year of the Dog
+	User Flag
+		THM{OTE3MTQyNTM5NzRiN2VjNTQyYWM2M2Ji}
+	Root Flag
+		THM{MzlhNGY5YWM0ZTU5ZGQ0OGI0YTc0OWRh}
+
+
+
+NerdHerd
+	User Flag
+		THM{7fc91d70e22e9b70f98aaf19f9a1c3ca710661be}
+	Root Flag
+		THM{5c5b7f0a81ac1c00732803adcee4a473cf1be693}
+	Bonus Flag
+		THM{a975c295ddeab5b1a5323df92f61c4cc9fc88207}
+
+
+
+Undiscovered
+	user.txt
+		THM{8d7b7299cccd1796a61915901d0e091c}
+	Whats the root user's password hash?
+		$6$1VMGCoHv$L3nX729XRbQB7u3rndC.8wljXP4eVYM/SbdOzT1IET54w2QVsVxHSH.ghRVRxz5Na5UyjhCfY6iv/koGQQPUB0
+
+
+
+toc2
+	Find and retrieve the user.txt flag
+		thm{63616d70657276616e206c696665}
+	Escalate your privileges and acquire root.txt
+		thm{7265616c6c696665}
+
+
+
+0day
+user.txt
+THM{Sh3llSh0ck_r0ckz}
+root.txt 
+THM{g00d_j0b_0day_is_Pleased}
+
+
+
+The Marketplace
+	What is flag 1?
+		THM{c37a63895910e478f28669b048c348d5}
+	What is flag 2? (User.txt)
+		THM{c3648ee7af1369676e3e4b15da6dc0b4}
+	What is flag 3? (Root.txt)
+		THM{d4f76179c80c0dcf46e0f8e43c9abd62}
+
+
+
+Hacker vs. Hacker
+	What is the user.txt flag?
+		thm{af7e46b68081d4025c5ce10851430617}
+	What is the proof.txt flag?
+		thm{7b708e5224f666d3562647816ee2a1d4}
+
+
+
+Break it
+	[Super easy] MVQXG6K7MJQXGZJTGI======
+		easy_base32
+	[Easy] TVJYWEtZVE1NVlBXRVlMVE1WWlE9PT09
+		double_bases
+	[Moderate] GM4HOU3VHBAW6OKNJJFW6SS2IZ3VAMTYORFDMUC2G44EQULIJI3WIVRUMNCWI6KGK5XEKZDTN5YU2RT2MR3E45KKI5TXSOJTKZJTC4KRKFDWKZTZOF3TORJTGZTXGNKCOE======
+		base16_is_hex
+	[Hard] HRBUGQDUHFWDIXKUIBWXIJTHIE3DCY3BIE2FKQSZHNDE6MRUIA2TWWDMHRBV2ZKCHQWFCTLPIE2EEJDBIBZCEW3OHUSTOLRCHNFGMVC6IFJXIQ2AHVMVONSBHVOVIM2MHVPV42J4HQVCQ4REIFHVIJ2WHFWDYQSUHROGILJCIFIU23CXHNCEIXK2HRDVSXKOHV2SQJLC
+		that_is_a_lot_of_bases
+	[Insane] really long so not typing it
+		defense_the_base
+	[Easy] PJXHQ4S7GEZV6ZTDOZQQ====
+		make_13_spin
+	[Moderate] NjZMKVhATl1EcEI2Jio4Q0xuVy1EZSo5ZkFLV0M6QVUtPFpGQ0InIkReYg==
+		I luv vigenere cipher
+	[Hard] -!r/X,]n/Z-Zs\X,X$,rI<@]#-9Oh,-=A]R-p9\+
+		decode_and_rot
+	[Insane] really long so not typing it
+		you are a real code cracker
+	[Moderate] 2D 37 2B 19 31 99 31 B3 B2 AB A5 18 32 37 20 B3 B2 AC 2D 1A 31 B4 A1 3A A4 A3 9C B4 AD 36 AC 9E
+		shift logic like a boss
+	[Hard] 19 1A 1C 99 1C 9C A8 38 27 B2 34 27 B9 27 26 28 3C 3B AA 28 A5 AA 2A 29 3C 29 B2 B2 21 B1 AC A6 1C AC 29 A8 38 99 2C
+		shift arithmetic like a boss
+	[Insane] A9 A8 2B EE 2A AA C9 C8 C9 AA A8 0F 2A 8A AA EE A9 8A CA A8 A9 4F 6D 46 E9 A8 A8 0F A9 8A 6D 86 A9 AA A9 26 2A 8A 48 E8
+		God of shifs
+
+
+
+Empline
+	User.txt
+		91cb89c70aa2e5ce0e0116dab099078e
+	Root.txt
+		74fea7cd0556e9c6f22e6f54bc68f5d5
+
+
+
+VulnNet: Node
+	What is the user flag? (user.txt)
+		THM{064640a2f880ce9ed7a54886f1bde821}
+	What is the root flag? (root.txt)
+		THM{abea728f211b105a608a720a37adabf9}
+
+
+
+Masterminds
+	Provide the victim's IP address.
+		192.168.75.249
+	The victim attempted to make HTTP connections to two suspicious domains with the status '404 Not Found'. Provide the hosts/domains requested.
+		cambiasuhistoria.growlab.es,www.letscompareonline.com
+	The victim made a successful HTTP connection to one of the domains and received the response_body_len of 1,309 (uncompressed content size of the data transferred from the server). Provide the domain and the destination IP address.
+		ww25.gocphongthe.com,199.59.242.153
+	How many unique DNS requests were made to cab[.]myfkn[.]com domain (including the capitalized domain)?
+		7
+	Provide the URI of the domain bhaktivrind[.]com that the victim reached out over HTTP. 
+		/cgi-bin/JBbb8/
+	Provide the IP address of the malicious server and the executable that the victim downloaded from the server.
+		185.239.243.112, catzx.exe
+	Based on the information gathered from the second question, provide the name of the malware using VirusTotal.
+		Emotet
+	Provide the IP address of the victim machine.
+		192.168.75.146
+	Provide the IP address the victim made the POST connections to.
+		5.181.156.252
+	How many POST connections were made to the IP address in the previous question?
+		3
+	Provide the domain where the binary was downloaded from. 
+		hypercustom.top
+	Provide the name of the binary including the full URI.
+		/jollion/apines.exe
+	Provide the IP address of the domain that hosts the binary.
+		45.95.203.28
+	There were 2 Suricata "A Network Trojan was detected" alerts. What were the source and destination IP addresses?
+		192.168.75.146, 45.95.203.28
+	Taking a look at .top domain in HTTP requests, provide the name of the stealer (Trojan that gathers information from a system) involved in this packet capture using URLhaus Database.
+		Redline Stealer
+	Provide the IP address of the victim machine.
+		192.168.75.232
+	Provide three C2 domains from which the binaries were downloaded (starting from the earliest to the latest in the timestamp)
+		efhoahegue.ru,afhoahegue.ru,xfhoahegue.ru
+	Provide the IP addresses for all three domains in the previous question.
+		162.217.98.146,199.21.76.77,63.251.106.25
+	How many unique DNS queries were made to the domain associated from the first IP address from the previous answer?
+		2
+	How many binaries were downloaded from the above domain in total?
+		5
+	Provided the user-agent listed to download the binaries.
+		Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0
+	Provide the amount of DNS connections made in total for this packet capture.
+		986
+	With some OSINT skills, provide the name of the worm using the first domain you have managed to collect from Question 2. (Please use quotation marks for Google searches, don't use .ru in your search, and DO NOT interact with the domain directly).
+		Phorphiex
+
+
+
+Sustah
+	What is the number that revealed the path?
+		10921
+	Name the path.
+		/YouGotTh3P@th/ 
+	What is the name of CMS?
+		Mara
+	What version of the CMS is running?
+		7.5
+	What is the user flag?
+		6b18f161b4de63b5f72577c737b7ebc8
+	What is the root flag?
+		afbb1696a893f35984163021d03f6095
+
+
+
+Revenge
+	flag1
+		thm{br3ak1ng_4nd_3nt3r1ng}
+	flag2
+		thm{4lm0st_th3re}
+	flag3
+		thm{m1ss10n_acc0mpl1sh3d}
+
+
+
+Year of the Pig
+	Flag 1
+		THM{MDg0MGVjYzFjY2ZkZGMzMWY1NGZiNjhl}
+	Flag 2
+		THM{Y2Q2N2M1NzNmYTQzYTI4ODliYzkzMmZh}
+	Root Flag
+		THM{MjcxNmVmYjNhYzdkZDc0M2RkNTZhNDA0}
+
+
+
+Mnemonic
+	How many open ports?
+		3
+	what is the ssh port number?
+		1337
+	what is the name of the secret file?
+		backups.zip
+	ftp user name?
+		ftpuser
+	ftp password?
+		love4ever
+	What is the ssh username?
+		james
+	What is the ssh password?
+		bluelove
+	What is the condor password?
+		pasificbell1981
+	user.txt
+		THM{a5f82a00e2feee3465249b855be71c01}
+	root.txt
+		THM{2a4825f50b0c16636984b448669b0586}
+
+
+
+One Piece
+	What is the name of the tree that contains the 1st Road Poneglyph?
+		The Whale
+	What is the name of the 1st pirate you meet navigating the Apache Sea?
+		Donquixote Doflamingo
+	What is the name of the 2nd island you reach navigating the Apache Sea?
+		Whole Cake
+	What is the name of the friend you meet navigating the Apache Sea?
+		Buggy the Clown
+	What is the name of the 2nd Emperor you meet navigating the Apache Sea?
+		Kaido of the Beasts
+	What is the hidden message of the 4 Road Poneglyphs?
+		M0nk3y_D_7uffy:1_w1ll_b3_th3_p1r@t3_k1ng!
+	Who is on Laugh Tale at the same time as Luffy?
+		Marshall D Teach
+	What allowed Luffy to win the fight?
+		Willpower
+	What is the One Piece?
+		S3cr3ts_0f_tH3_W0rlD_&_0f_Th3_P@st$
+
+
+
+Poster
+	What is the rdbms installed on the server?
+		postgresql
+	What port is the rdbms running on?
+		5432
+	After starting Metasploit, search for an associated auxiliary module that allows us to enumerate user credentials. What is the full path of the modules (starting with auxiliary)?
+		auxiliary/scanner/postgres/postgres_login
+	What are the credentials you found?
+		postgres:password
+	What is the full path of the module that allows you to execute commands with the proper user credentials (starting with auxiliary)?
+		auxiliary/admin/postgres/postgres_sql
+	Based on the results of #6, what is the rdbms version installed on the server?
+		9.5.21
+	What is the full path of the module that allows for dumping user hashes (starting with auxiliary)?
+		auxiliary/scanner/postgres/postgres_hashdump
+	How many user hashes does the module dump?
+		6
+	What is the full path of the module (starting with auxiliary) that allows an authenticated user to view files of their choosing on the server?
+		auxiliary/admin/postgres/postgres_readfile
+	What is the full path of the module that allows arbitrary command execution with the proper user credentials (starting with exploit)?
+		exploit/multi/postgres/postgres_copy_from_program_cmd_exec
+	Compromise the machine and locate user.txt
+		THM{postgresql_fa1l_conf1gurat1on}
+	Escalate privileges and obtain root.txt
+		THM{c0ngrats_for_read_the_f1le_w1th_credent1als}
+
+
+
+RootMe
+	Scan the machine, how many ports are open?
+		2
+	What version of Apache is running?
+		2.4.29
+	What service is running on port 22?
+		ssh
+	What is the hidden directory?
+		/panel/
+	user.txt
+		THM{y0u_g0t_a_sh3ll}
+	Search for files with SUID permission, which file is weird?
+		/usr/bin/python
+	root.txt
+		THM{pr1v1l3g3_3sc4l4t10n}
+
+
+
+Jacob the Boss
+	user.txt
+		f4d491f280de360cc49e26ca1587cbcc
+	root.txt
+		29a5641eaa0c01abe5749608c8232806
+
+
+
+Ghizer
+	What are the credentials you found in the configuration file?
+		Anny:P4$W0RD!!#S3CUr3!
+	What is the login path for the wordpress installation?
+		/?devtools
+	Compromise the machine and locate user.txt
+		THM{EB0C770CCEE1FD73204F954493B1B6C5E7155B177812AAB47EFB67D34B37EBD3}
+	Escalate privileges and obtain root.txt
+		THM{02EAD328400C51E9AEA6A5DB8DE8DD499E10E975741B959F09BFCF077E11A1D9}
+
+
+
+The Blob Blog
+	User Flag
+		THM{C0NGR4t$_g3++ing_this_fur}
+	Root Flag
+		THM{G00D_J0B_G3++1NG+H3R3!}
+
+
+
+GamingServer
+	What is the user flag?
+		a5c2ff8b9c2e3d4fe9d4ff2f1a5a6e7e
+	What is the root flag?
+		2e337b8c9f3aff0c2b3e8d4e6a7c88fc
+
+
+
+kiba
+	What is the vulnerability that is specific to programming languages with prototype-based inheritance?
+		Prototype pollution
+	What is the version of visualization dashboard installed in the server?
+		6.5.4
+	What is the CVE number for this vulnerability? This will be in the format: CVE-0000-0000
+		CVE-2019-7609
+	Compromise the machine and locate user.txt
+		THM{1s_easy_pwn3d_k1bana_w1th_rce}
+	How would you recursively list all of these capabilities?
+		getcap -r /
+	Escalate privileges and obtain root.txt
+		THM{pr1v1lege_escalat1on_us1ng_capab1l1t1es}
+
+
+
+Git Happens
+	Find the Super Secret Password
+		Th1s_1s_4_L0ng_4nd_S3cur3_P4ssw0rd!
+
+
+
+Internal
+	User.txt Flag
+		THM{int3rna1_fl4g_1}
+	Root.txt Flag
+		THM{d0ck3r_d3str0y3r}
+
+
+
+Relevant
+	User Flag
+		THM{fdk4ka34vk346ksxfr21tg789ktf45}
+	Root Flag
+		THM{1fk5kf469devly1gl320zafgl345pv}
+
+
+
+Spring
+	What's the flag in foothold.txt?
+		THM{dont_expose_.git_to_internet}
+	What's the flag in user.txt?
+		THM{this_is_still_password_reuse}
+	What's the flag in root.txt?
+		THM{sshd_does_not_mind_the_junk}
+
+
+
+Looking Glass
+	Get the user flag.
+		thm{65d3710e9d75d5f346d2bac669119a23}
+	Get the root flag.
+		thm{bc2337b6f97d057b01da718ced6ead3f}
+
+
+
+harder
+	Hack the machine and obtain the user Flag (user.txt)
+		7e88bf11a579dc5ed66cc798cbe49f76
+	Escalate your privileges and get the root Flag (root.txt)
+		3a7bd72672889e0756b09f0566935a6c
+
+
+
+Anonymous Playground
+	User 1 Flag
+		9184177ecaa83073cbbf36f1414cc029
+	User 2 Flag
+		69ee352fb139c9d0699f6f399b63d9d7
+	Root Flag
+		bc55a426e98deb673beabda50f24ce66
+
+
+
+Gotta Catch'em All!
+	Find the Grass-Type Pokemon
+		PoKeMoN{Bulbasaur}
+	Find the Water-Type Pokemon
+		Squirtle_SqUaD{Squirtle}
+	Find the Fire-Type Pokemon
+		P0k3m0n{Charmander}
+	Who is Root's Favorite Pokemon?
+		Pikachu!
+
+
+
+Easy Peasy
+	How many ports are open?
+		3
+	What is the version of nginx?
+		1.16.1
+	What is running on the highest port?
+		Apache
+	Using GoBuster, find flag 1.
+		flag{f1rs7_fl4g}
+	Further enumerate the machine, what is flag 2?
+		flag{1m_s3c0nd_fl4g}
+	Crack the hash with easypeasy.txt, What is the flag 3?
+		flag{9fdafbd64c47471a8f54cd3fc64cd312}
+	What is the hidden directory?
+		/n0th1ng3ls3m4tt3r
+	Using the wordlist that provided to you in this task crack the hash what is the password?
+		mypasswordforthatjob
+	What is the password to login to the machine via SSH?
+		iconvertedmypasswordtobinary
+	What is the user flag?
+		flag{n0wits33msn0rm4l}
+	What is the root flag?
+		flag{63a9f0ea7bb98050796b649e85481845}
+
+
+
+Recovery
+	Flag 0
+		THM{d8b5c89061ed767547a782e0f9b0b0fe}
+	Flag 1
+		THM{4c3e355694574cb182ca3057a685509d}
+	Flag 2
+		THM{72f8fe5fd968b5817f67acecdc701e52}
+	Flag 3
+		THM{70f7de17bb4e08686977a061205f3bf0}
+	Flag 4
+		THM{b0757f8fb8fe8dac584e80c6ac151d7d}
+	Flag 5
+		THM{088a36245afc7cb935f19f030c4c28b2}
+
+
+
+Bounty Hacker
+	Who wrote the task list?
+		lin
+	What service can you bruteforce with the text file found?
+		SSH
+	What is the users password?
+		RedDr4gonSynd1cat3
+	user.txt
+		THM{CR1M3_SyNd1C4T3}
+	root.txt 
+		THM{80UN7Y_h4cK3r}
+
+
+
+Smag Grotto
+	What is the user flag?
+		iusGorV7EbmxM5AuIe2w499msaSuqU3j
+	What is the root flag?
+		uJr6zRgetaniyHVRqqL58uRasybBKz2T
+
+
+
+Brooklyn Nine Nine
+	User flag
+		ee11cbb19052e40b07aac0ca060c23ee
+	Root flag
+		63a9f0ea7bb98050796b649e85481845
+
+
+
+Overpass
+	Hack the machine and get the flag in user.txt
+		thm{65c1aaf000506e56996822c6281e6bf7}
+	Escalate your privileges and get the flag in root.txt
+		thm{7f336f8c359dbac18d54fdd64ea753bb}
+
+
+
+Blog
+	root.txt
+		9a0b2b618bef9bfa7ac28c1353d9f318
+	user.txt
+		c8421899aae571f7af486492b71a8ab7
+	Where was user.txt found?
+		/media/usb
+	What CMS was Billy using?
+		Wordpress
+	What version of the above CMS was being used?
+		5.0
+
+
+
+Source
+	user.txt
+		THM{SUPPLY_CHAIN_COMPROMISE}
+	root.txt
+		THM{UPDATE_YOUR_INSTALL}
+
+
+
+Ra
+	Flag 1
+		THM{466d52dc75a277d6c3f6c6fcbc716d6b62420f48}
+	Flag 2
+		THM{6f690fc72b9ae8dc25a24a104ed804ad06c7c9b1}
+	Flag 3
+		THM{ba3a2bff2e535b514ad760c283890faae54ac2ef}
+
+
+
+Jeff
+	Hack the machine and obtain the user.txt flag.
+		THM{e122d5588956ef9ba7d4d2b2fee00cac}
+	Escalate your privileges, whats the root flag?
+		THM{40fc54e5c0f5747dfdd35e0cc7db6ee2}
+
+
+
+Dave's Blog
+	Flag 1
+		THM{SuperSecureAdminPassword123}
+	Flag 2 / User flag
+		THM{5fa1f779d1835367fdcfa4741bebb88a}
+	Flag 3
+		THM{993e107fc66844482bb5dd0e4c485d5b}
+	Flag 4
+		THM{runn1ng_str1ngs_1s_b4sic4lly_RE}
+	Flag 5 / Root flag
+		THM{a0a9c4f6809c84e212ac889d39b9cb48}
+
+
+
+Year of the Fox
+	What is the web flag?
+		THM{Nzg2ZWQwYWUwN2UwOTU3NDY5ZjVmYTYw}
+	What is the user flag?
+		THM{Njg3NWZhNDBjMmNlMzNkMGZmMDBhYjhk}
+	What is the root flag?
+		THM{ODM3NTdkMDljYmM4ZjdhZWFhY2VjY2Fk}
+
+
+
+HaskHell
+	Get the flag in the user.txt file.
+		flag{academic_dishonesty}
+	Obtain the flag in root.txt
+		flag{im_purely_functional}
+
+
+
+Break Out The Cage
+	What is Weston's password?
+		Mydadisghostrideraintthatcoolnocausehesonfirejokes
+	What's the user flag?
+		THM{M37AL_0R_P3N_T35T1NG}
+	What's the root flag?
+		THM{8R1NG_D0WN_7H3_C493_L0N9_L1V3_M3}
+
+
+
+Mindgames
+	User flag.
+		thm{411f7d38247ff441ce4e134b459b6268}
+	Root flag.
+		thm{1974a617cc84c5b51411c283544ee254}
+
+
+
+Wonderland
+	Obtain the flag in user.txt
+		thm{"Curiouser and curiouser!"}
+	Escalate your privileges, what is the flag in root.txt?
+		thm{Twinkle, twinkle, little bat! How I wonder what you’re at!}
+
+
+
+Lian_Yu
+	What is the Web Directory you found?
+		2100
+	what is the file name you found?
+		green_arrow.ticket
+	what is the FTP Password?
+		!#th3h00d
+	what is the file name with SSH password?
+		shado
+	user.txt
+		THM{P30P7E_K33P_53CRET5__C0MPUT3R5_D0N'T}
+	root.txt
+		THM{MY_W0RD_I5_MY_B0ND_IF_I_ACC3PT_YOUR_CONTRACT_THEN_IT_WILL_BE_COMPL3TED_OR_I'LL_BE_D34D}
+
+
+
+Peak Hill
+	What is the user flag?
+		f1e13335c47306e193212c98fc07b6a0
+	What is the root flag?
+		e88f0a01135c05cf0912cf4bc335ee28
+
+
+
+Gatekeeper
+	Locate and find the User Flag.
+		{H4lf_W4y_Th3r3}
+	Locate and find the Root Flag
+		{Th3_M4y0r_C0ngr4tul4t3s_U}
+
+
+
+Anonymous
+	Enumerate the machine.  How many ports are open?
+		4
+	What service is running on port 21?
+		ftp
+	What service is running on ports 139 and 445?
+		smb
+	There's a share on the user's computer.  What's it called?
+		pics
+	user.txt
+		90d6f992585815ff991e68748c414740
+	root.txt
+		4d930091c31a622a7ed10f27999af363
+
+
+
+Anthem
+	What port is for the web server?
+		80
+	What port is for remote desktop service?
+		3389
+	What is a possible password in one of the pages web crawlers check for?
+		UmbracoIsTheBest!
+	What CMS is the website using?
+		Umbraco
+	What is the domain of the website?
+		anthem.com
+	What's the name of the Administrator
+		Solomon Grundy
+	Can we find find the email address of the administrator?
+		SG@anthem.com
+	What is flag 1?
+		THM{L0L_WH0_US3S_M3T4}
+	What is flag 2?
+		THM{G!T_G00D}
+	What is flag 3?
+		THM{L0L_WH0_D15}
+	What is flag 4?
+		THM{AN0TH3R_M3TA}
+	Gain initial access to the machine, what is the contents of user.txt?
+		THM{N00T_NO0T}
+	Can we spot the admin password?
+		ChangeMeBaby1MoreTime
+	Escalate your privileges to root, what is the contents of root.txt?
+		THM{Y0U_4R3_1337}
+
+
+
+The Impossible Challenge
+	flag is in the format THM{}
+		THM{Zero_Width_Characters_EZPZ}
+
+
+
+Racetrack Bank
+	User flag
+		THM{178c31090a7e0f69560730ad21d90e70}
+	Root flag
+		THM{55a9d6099933f6c456ccb2711b8766e3}
+
+
+
+ConvertMyVideo
+	What is the name of the secret folder?
+		admin
+	What is the user to access the secret folder?
+		itsmeadmin
+	What is the user flag?
+		flag{0d8486a0c0c42503bb60ac77f4046ed7}
+	What is the root flag?
+		flag{d9b368018e912b541a4eb68399c5e94a}
+
+
+
+Nax
+	What hidden file did you find?
+		PI3T.Png
+	Who is the creator of the file?
+		Piet Mondrian
+	What is the username you found?
+		nagiosadmin
+	What is the password you found?
+		n3p3UQ&9BjLp4$7uhWdY
+	What is the CVE number for this vulnerability? This will be in the format: CVE-0000-0000
+		CVE-2019-15949
+	After Metasploit has started, let's search for our target exploit using the command 'search applicationame'. What is the full path (starting with exploit) for the exploitation module?
+		exploit/linux/http/nagios_xi_plugins_check_plugin_authenticated_rce
+	Compromise the machine and locate user.txt
+		THM{84b17add1d72a9f2e99c33bc568ae0f1}
+	Locate root.txt
+		THM{c89b2e39c83067503a6508b21ed6e962}
+
+
+
+Pickle Rick
+	What is the first ingredient Rick needs?
+		mr. meeseek hair
+	Whats the second ingredient Rick needs?
+		1 jerry tear
+	Whats the final ingredient Rick needs?
+		fleeb juice
+
+
+
+dogcat
+	What is flag 1?
+		THM{Th1s_1s_N0t_4_Catdog_ab67edfa}
+	What is flag 2?
+		THM{LF1_t0_RC3_aec3fb}
+	What is flag 3?
+		THM{D1ff3r3nt_3nv1ronments_874112}
+	What is flag 4?
+		THM{esc4l4tions_on_esc4l4tions_on_esc4l4tions_7a52b17dba6ebb0dc38bc1049bcba02d}
+
+
+
+Fowsniff CTF
+	What was seina's password to the email service?
+		scoobydoo2
+	Looking through her emails, what was a temporary password set for her?
+		S1ck3nBluff+secureshell
+
+
+
+Mustacchio
+	What is the user flag?
+		62d77a4d5f97d47c5aa38b3b2651b831
+	What is the root flag?
+		3223581420d906c4dd1a5f9b530393a5
+
+
+
+Year of the Jellyfish
+	Flag 1
+		THM{MjBkOTMyZDgzNGZmOGI0Y2I5NTljNGNl}
+	Root Flag
+		THM{YjMyZTkwYzZhM2U5MGEzZDU2MDc1NTMx}
+
+
+
+Tokyo Ghoul
+	How many ports are open ?
+		3
+	What is the OS used ?
+		ubuntu
+	Did you find the note that the others ghouls gave you? where did you find it ? 
+		jasonroom.html
+	What is the key for Rize executable?
+		kamishiro
+	What the message mean did you understand it ? what it says?
+		d1r3c70ry_center
+	what is rize username ?
+		kamishiro
+	what is rize password ?
+		password123
+	user.txt
+		e6215e25c0783eb4279693d9f073594a
+	root.txt
+		9d790bb87898ca66f724ab05a9e6000b
+
+
+
+Carnage
+	What was the date and time for the first HTTP connection to the malicious IP?
+		2021-09-24 16:44:38
+	What is the name of the zip file that was downloaded?
+		documents.zip
+	What was the domain hosting the malicious zip file?
+		attirenepal.com
+	Without downloading the file, what is the name of the file in the zip file?
+		chart-1530076591.xls
+	What is the name of the webserver of the malicious IP from which the zip file was downloaded?
+		LiteSpeed
+	What is the version of the webserver from the previous question?
+		PHP/7.2.34
+	Malicious files were downloaded to the victim host from multiple domains. What were the three domains involved with this activity?
+		finejewels.com.au, thietbiagt.com, new.americold.com
+	Which certificate authority issued the SSL certificate to the first domain from the previous question?
+		GoDaddy
+	What are the two IP addresses of the Cobalt Strike servers? Use VirusTotal (the Community tab) to confirm if IPs are identified as Cobalt Strike C2 servers. (answer format: enter the IP addresses in sequential order)
+		185.106.96.158, 185.125.204.174
+	What is the Host header for the first Cobalt Strike IP address from the previous question?
+		ocsp.verisign.com
+	What is the domain name for the first IP address of the Cobalt Strike server? You may use VirusTotal to confirm if it's the Cobalt Strike server (check the Community tab).
+		survmeter.live
+	What is the domain name of the second Cobalt Strike server IP?  You may use VirusTotal to confirm if it's the Cobalt Strike server (check the Community tab).
+		securitybusinpuff.com
+	What is the domain name of the post-infection traffic?
+		maldivehost.net
+	What are the first eleven characters that the victim host sends out to the malicious domain involved in the post-infection traffic? 
+		zLIisQRWZI9
+	What was the length for the first packet sent out to the C2 server?
+		281
+	What was the Server header for the malicious domain from the previous question?
+		Apache/2.4.49 (cPanel) OpenSSL/1.1.1l mod_bwlimited/1.4
+	The malware used an API to check for the IP address of the victim’s machine. What was the date and time when the DNS query for the IP check domain occurred? (answer format: yyyy-mm-dd hh:mm:ss UTC)
+		2021-09-24 17:00:04
+	What was the domain in the DNS query from the previous question?
+		api.ipify.org
+	Looks like there was some malicious spam (malspam) activity going on. What was the first MAIL FROM address observed in the traffic?
+		farshin@mailfa.com
+	How many packets were observed for the SMTP traffic?
+		1439
+
+
+
+Agent T
+	What is the flag?
+		flag{4127d0530abf16d6d23973e3df8dbecb}
+
+
+
+Crack The Hash Level 2
+	What kind of hash it is?
+		RIPEMD-320
+	What is Keccak-256 Hashcat code?
+		17800
+	What is Keccak-256 John the Ripper code?
+		raw-keccak-256
+	Which option do you need to add to the previous command to search into local archives instead of remote ones?
+		-l
+	If you run wordlistctl search -l rockyou one more time, what is the path where is stored the wordlist?
+		/usr/share/wordlists/passwords/rockyou.txt
+	What is the name of the first wordlist in the usernames category?
+		CommonAdminBase64
+	What was the password?
+		moonligh56
+	Crack the following md5 hash with the wordlist generated in the previous steps.
+		mOlo$$u$
+	What is the last word of the list?
+		information
+	Crack this md5 hash with combination.txt.
+		1551-li
+	Advice n°1 b16f211a8ad7f97778e5006c7cecdf31
+		Zachariah1234*
+	Advice n°2 7463fcb720de92803d179e7f83070f97
+		Angelita35!
+	Advice n°3 f4476669333651be5b37ec6d81ef526f
+		Tl@xc@l@ncing0
+	Advice n°4 a3a321e1c246c773177363200a6c0466a5030afc
+		DavIDgUEtTApAn
+	Advice n°5 d5e085772469d544a447bc8250890949
+		uoy ot miws ot em rof peed oot ro ediw oot si revir oN
+	Advice n°6 377081d69d23759c5946a95d1b757adc
+		+17215440375
+	Advice n°7 ba6e8f9cd4140ac8b8d2bf96c9acd2fb58c0827d556b78e331d1113fcbfe425ca9299fe917f6015978f7e1644382d1ea45fd581aed6298acde2fa01e7d83cdbd
+		!@#redrose!@#
+	Advice n°8 9f7376709d3fe09b389a27876834a13c6f275ed9a806d4c8df78f0ce1aad8fb343316133e810096e0999eaf1d2bca37c336e1b7726b213e001333d636e896617
+		hackinghackinghackinghacking
+	Advice n°9 $6$kI6VJ0a31.SNRsLR$Wk30X8w8iEC2FpasTo0Z5U7wke0TpfbDtSwayrNebqKjYWC4gjKoNEJxO/DkP.YFTLVFirQ5PEh4glQIHuKfA/
+		kakashi1
+
+
+
+Cat Pictures
+	Flag 1 
+		7cf90a0e7c5d25f1a827d3efe6fe4d0edd63cca9
+	Root Flag
+		4a98e43d78bab283938a06f38d2ca3a3c53f0476
+
+
+
+The Great Escape
+	Find the flag hidden in the webapp
+		THM{b801135794bf1ed3a2aafaa44c2e5ad4}
+	Find the root flag?
+		THM{0cb4b947043cb5c0486a454b75a10876}
+	Find the real root flag
+		THM{c62517c0cad93ac93a92b1315a32d734}
+
+
+
+En-pass
+	Name The Path.
+		/web/resources/infoseek/configure/key
+	What is the user flag?
+		1c5ccb6ce6f3561e302e0e516c633da9
+	What is the root flag?
+		5d45f08ee939521d59247233d3f8faf
+
+
+
+Enterprise
+	What is the contents of User.txt
+		THM{ed882d02b34246536ef7da79062bef36}
+	What is the contents of Root.txt
+		THM{1a1fa94875421296331f145971ca4881}
+
+
+
+WWBuddy
+	Website flag
+		THM{d0nt_try_4nyth1ng_funny}
+	User flag
+		THM{g4d0_d+_kkkk}
+	Root flag
+		THM{ch4ng3_th3_3nv1r0nm3nt}
+
+
+
+CherryBlossom
+	Journal Flag
+		THM{054a8f1db7618f8f6a41a0b3349baa11}
+	User Flag
+		THM{cb064113d54e24dc84f26b1f63bf3098}
+	Root Flag
+		THM{d4b5e228a567288d12e301f2f0bf5be0}
+
+
+
+For Business Reasons
+	What is flag 0?
+		ya7ooShiivagaipi
+	What is the user flag?
+		osh4loNi
+	What is the root flag?
+		Kainiy1Onoonoh3j
+
+
+
+Red Stone One Carat
+	SSH password
+		cheeseburger
+	user.txt
+		THM{3a106092635945849a0fbf7bac92409d}
+	root.txt
+		THM{58e53d1324eef6265fdb97b08ed9aadf}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
