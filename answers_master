@@ -2084,6 +2084,8 @@ Investigating Windows 3.x
 
 
 Squid Game
+	Accept the invitation? (Yes/No)
+		Yes
 	What is the malicious C2 domain you found in the maldoc where an executable download was attempted?
 		fpetraardella.band/xap_102b-AZ1/704e.php?l=litten4.gas
 	What executable file is the maldoc trying to drop?
@@ -2204,6 +2206,135 @@ envizon
 		7953ba7f83b3fd00279627de052bc078
 	root.txt
 		40963d170c949f8325783c552e150236
+
+
+
+	skynet
+What is Miles password for his emails?
+cyborg007haloterminator
+What is the hidden directory?
+/45kra24zxs28v3yd
+What is the vulnerability called when you can include a remote file for malicious purposes?
+remote file inclusion
+What is the user flag?
+7ce5c2109a40f958099283600a9ae807
+What is the root flag?
+3f0372db24753accc7179a282cd6a949
+
+	ToolsRus
+What directory can you find, that begins with a g?
+/guidelines
+Whose name can you find from this directory?
+bob
+What directory has basic authentication?
+/protected
+What is bob’s password to the protected part of the website?
+bubbles
+What other port that serves a webs service is open on the machine?
+1234/tcp
+Going to the service running on that port, what is the name and version of the software? Answer format: Full_name_of_service/Version
+Apache Tomcat/7.0.88
+Use Nikto with the credentials you have found and scan the /manager/html directory on the port found above. How many documentation files did Nikto identify?
+5
+What is the server version (run the scan against port 80)?
+Apache/2.4.18
+What version of Apache-Coyote is this service using?
+1.1
+Use Metasploit to exploit the service and get a shell on the system. What user did you get a shell as?
+root
+What text is in the file /root/flag.txt
+ff1fc4a81affcc7688cf89ae7dc6e0e1
+
+	Net Sec Challenge
+What is the highest port number being open less than 10,000?
+8080
+There is an open port outside the common 1000 ports; it is above 10,000. What is it?
+10021
+How many TCP ports are open?
+6
+What is the flag hidden in the HTTP server header?
+THM{web_server_25352}
+What is the flag hidden in the SSH server header?
+THM{946219583339}
+We have an FTP server listening on a nonstandard port. What is the version of the FTP server?
+vsftpd 3.0.3
+We learned two usernames using social engineering: eddie and quinn. What is the flag hidden in one of these two account files and accessible via FTP?
+THM{321452667098}
+Browsing to http://10.10.116.93:8080 displays a small challenge that will give you a flag once you solve it. What is the flag?
+THM{f7443f99}
+
+	Vulnerability Capstone
+What is the name of the application running on the vulnerable machine?
+Fuel CMS
+What is the version number of this application?
+1.4
+What is the number of the CVE that allows an attacker to remotely execute code on this application?
+CVE-2018-16763
+What is the value of the flag located on this vulnerable machine? This is located in /home/ubuntu on the vulnerable machine.
+THM{ACKME_BLOG_RFS}
+
+	Brainstorm
+How many ports are open?
+6
+What is the name of the exe file you found?
+chatserver.exe
+After gaining access, what is the content of the root.txt file?
+5b1001de5a44eca47eee71e7942a8f8a
+
+	Heartbleed
+What is the flag?
+THM{sSl-Is-BaD}
+
+
+
+Scripting
+What is the final string?
+HackBack2019=
+Once you have done all operations, what number do you get (rounded to 2 decimal places at the end of your calculation)?
+344769.12
+What is the flag?
+THM{eW-sCrIpTiNg-AnD-cRyPtO}
+
+
+
+Phishing Emails 5
+What is the email's timestamp? (answer format: mm/dd/yyyy hh:mm)
+06/10/2020 05:58
+Who is the email from?
+Mr. James Jackson
+What is his email address?
+info@mutawamarine.com
+What email address will receive a reply to this email?
+info.mutawamarine@mail.com
+What is the Originating IP?
+192.119.71.157
+Who is the owner of the Originating IP? (Do not include the "." in your answer.)
+Hostwinds LLC
+What is the SPF record for the Return-Path domain?
+v=spf1 include:spf.protection.outlook.com -all
+What is the DMARC record for the Return-Path domain?
+v=DMARC1; p=quarantine; fo=1
+What is the name of the attachment?
+SWT_#09674321___PDF__.CAB
+What is the SHA256 hash of the file attachment?
+2e91c533615a9bb8929ac4bb76707b2444597ce063d84a4b33525e25074fff3f
+What is the attachments file size? (Don't forget to add "KB" to your answer, NUM KB)
+400.26 KB
+What is the actual file extension of the attachment?
+
+
+
+Jack
+Gain initial access and obtain the user flag.
+0052f7829e48752f2e7bf50f1231548a
+Escalate your privileges to root. Whats the root flag?
+b8b63a861cc09e853f29d8055d64bffb
+
+
+
+
+
+
 
 
 
