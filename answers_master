@@ -2109,7 +2109,7 @@ Squid Game
 	Provide the name of the stream that contains a macro.
 		ThisDocument
 	Provide the streams (numbers) that contain macros.
-		12 ,13, 14, 16
+		12, 13, 14, 16
 	Provide the size (bytes) of the compiled code for the second stream that contains a macro.
 		13867
 	Provide the largest number of bytes found while analyzing the streams.
