@@ -2137,7 +2137,7 @@ Squid Game
 	What program is used to run the executable?
 		Certutil
 	Provide the malicious URI included in the maldoc that was used to download the binary (without http/https).
-		8cfayv.com/blob/jaent.php?l=liut6.cab
+		8cfayv.com/bolb/jaent.php?l=liut6.cab
 	What folder does the binary gets dropped in?
 		ProgramData
 	Which stream executes the binary that was downloaded?
