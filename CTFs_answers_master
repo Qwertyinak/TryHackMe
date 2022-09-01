@@ -2560,15 +2560,261 @@ What is the CVSS v2 score of the Log4j vulnerability?
 
 
 
+Aster
+Compromise the machine and locate user.txt
+thm{bas1c_aster1ck_explotat1on}
+Reverse file and get root.txt
+thm{fa1l_revers1ng_java}
 
 
 
+Tony the Tiger
+What is a great IRL example of an "Object"?
+lamp
+What is the acronym of a possible type of attack resulting from a "serialisation" attack?
+dos
+What lower-level format does data within "Objects" get converted into?
+byte streams
+What service is running on port "8080"
+Apache Tomcat/Coyote JSP engine 1.1
+What is the name of the front-end application running on "8080"?
+JBoss
+This flag will have the formatting of "THM{}"
+THM{Tony_Sure_Loves_Frosted_Flakes}
+This flag has the formatting of "THM{}"
+THM{50c10ad46b5793704601ecdad865eb06}
+The final flag does not have the formatting of "THM{}"
+zxcvbnm123456789
 
 
 
+Year of the Rabbit
+What is the user flag?
+THM{1107174691af9ff3681d2b5bdb5740b1589bae53}
+What is the root flag?
+THM{8d6f163a87a1c80de27a4fd61aef0f3a0ecf9161}
 
 
 
+Attacktive Directory
+What tool will allow us to enumerate port 139/445?
+enum4linux
+What is the NetBIOS-Domain Name of the machine?
+THM-AD
+What invalid TLD do people commonly use for their Active Directory Domain?
+.local
+What command within Kerbrute will allow us to enumerate valid usernames?
+userenum
+What notable account is discovered? (These should jump out at you)
+svc-admin
+What is the other notable account is discovered? (These should jump out at you)
+backup
+We have two user accounts that we could potentially query a ticket from. Which user account can you query a ticket from with no password?
+svc-admin
+Looking at the Hashcat Examples Wiki page, what type of Kerberos hash did we retrieve from the KDC? (Specify the full name)
+Kerberos 5 AS-REP etype 23
+What mode is the hash?
+18200
+Now crack the hash with the modified password list provided, what is the user accounts password?
+management2005
+What utility can we use to map remote SMB shares?
+smbclient
+Which option will list shares?
+-L
+How many remote shares is the server listing?
+6
+There is one particular share that we have access to that contains a text file. Which share is it?
+backup
+What is the content of the file?
+YmFja3VwQHNwb29reXNlYy5sb2NhbDpiYWNrdXAyNTE3ODYw
+Decoding the contents of the file, what is the full contents?
+backup@spookysec.local:backup2517860
+What method allowed us to dump NTDS.DIT?
+DRSUAPI
+What is the Administrators NTLM hash?
+0e0363213e37b94221497260b0bcb4fc
+What method of attack could allow us to authenticate as the user without the password?
+Pass The Hash
+Using a tool called Evil-WinRM what option will allow us to use a hash?
+-H
+svc-admin
+TryHackMe{K3rb3r0s_Pr3_4uth}
+backup
+TryHackMe{B4ckM3UpSc0tty!}
+Administrator
+TryHackMe{4ctiveD1rectoryM4st3r}
+
+
+
+tomghost
+Compromise this machine and obtain user.txt
+THM{GhostCat_1s_so_cr4sy}
+Escalate privileges and obtain root.txt
+THM{Z1P_1S_FAKE}
+
+
+
+Jack-of-All-Trades
+User Flag
+securi-tay2020_{p3ngu1n-hunt3r-3xtr40rd1n41r3}
+Root Flag
+securi-tay2020_{6f125d32f38fb8ff9e720d2dbce2210a}
+
+
+
+Willow
+User Flag:
+THM{beneath_the_weeping_willow_tree}
+Root Flag:
+THM{find_a_red_rose_on_the_grave}
+
+
+
+CMesS
+Compromise this machine and obtain user.txt
+thm{c529b5d5d6ab6b430b7eb1903b2b5e1b}
+Escalate your privileges and obtain root.txt
+thm{9f85b7fdeb2cf96985bf5761a93546a2}
+
+
+
+OpenVPN
+What is the flag displayed on the deployed machine's website?
+flag{connection_verified}
+
+
+
+Musical Stego
+Who remixed the song?
+Kilmanjaro
+What link is hiding in the music?
+https://voca.ro/imPgJC013AW
+What does the found audio convert to? [CHECK HINT, LINK IS DEAD]
+https://pastebin.com/LZKTB4ET
+What was the found password?
+S3CR3T_P455
+What is the final flag?
+THM{f0und_m3!}
+
+
+
+Daily Bugle
+Access the web server, who robbed the bank?
+spiderman
+What is the Joomla version?
+3.7.0
+What is Jonah's cracked password?
+spiderman123
+What is the user flag?
+27a260fe3cba712cfdedb1c86d80442e
+What is the root flag?
+eec3d53292b1821868266858d7fa6f79
+
+
+
+Madness
+user.txt
+THM{d5781e53b130efe2f94f9b0354a5e4ea}
+root.txt
+THM{5ecd98aa66a6abb670184d7547c8124a}
+
+
+
+Retro
+A web server is running on the target. What is the hidden directory which the website lives on?
+/retro
+user.txt
+3b99fbdc6d430bfb51c72c651a261927
+root.txt
+7958b569565d7bd88d10c6f22d1c4063
+
+
+
+CTF collection Vol.1
+Feed me the flag!
+THM{ju57_d3c0d3_7h3_b453}
+I'm hungry, I need the flag.
+THM{3x1f_0r_3x17}
+It is sad. Feed me the flag.
+THM{500n3r_0r_l473r_17_15_0ur_7urn}
+Did you find the flag?
+THM{wh173_fl46}
+More flag please!
+THM{qr_m4k3_l1f3_345y}
+Found the flag?
+THM{345y_f1nd_345y_60}
+Oh, Oh, Did you get it?
+THM{17_h45_l3553r_l3773r5}
+What did you get?
+THM{hail_the_caesar}
+I'm hungry now... I need the flag
+THM{4lw4y5_ch3ck_7h3_c0m3mn7}
+What is the content?
+THM{y35_w3_c4n}
+Did you found the hidden flag?
+THM{50c14l_4cc0un7_15_p4r7_0f_051n7}
+Can you decode it?
+THM{0h_my_h34d}
+Did you crack it? Feed me now!
+THM{3xclu51v3_0r}
+Flag! Flag! Flag!
+THM{y0u_w4lk_m3_0u7}
+What does the flag said?
+THM{7h3r3_15_h0p3_1n_7h3_d4rkn355}
+What does the bot said?
+THM{SOUNDINGQR}
+Did you found my past?
+THM{ch3ck_th3_h4ckb4ck}
+The deciphered text
+TRYHACKME{YOU_FOUND_THE_KEY}
+What is the flag?
+THM{17_ju57_4n_0rd1n4ry_b4535}
+Did you captured my neighbor's flag?
+THM{d0_n07_574lk_m3}
+
+
+
+CTF collection Vol.2
+Easter 1
+THM{4u70b07_r0ll_0u7}
+Easter 2
+THM{f4ll3n_b453}
+Easter 3
+THM{y0u_c4n'7_533_m3}
+Easter 4
+THM{1nj3c7_l1k3_4_b055} 
+Easter 5
+THM{wh47_d1d_17_c057_70_cr4ck_7h3_5ql}
+Easter 6
+THM{l37'5_p4r7y_h4rd}
+Easter 7
+THM{w3lc0m3!_4nd_w3lc0m3}
+Easter 8
+THM{h3y_r1ch3r_wh3r3_15_my_k1dn3y}
+Easter 9
+THM{60nn4_60_f457}
+Easter 10
+THM{50rry_dud3}
+Easter 11
+THM{366y_b4k3y}
+Easter 12
+THM{h1dd3n_j5_f1l3}
+Easter 13
+THM{1_c4n'7_b3l13v3_17}
+Easter 14
+THM{d1r3c7_3mb3d}
+Easter 15
+THM{ju57_4_64m3}
+Easter 16
+THM{73mp3r_7h3_h7ml}
+Easter 17
+THM{j5_j5_k3p_d3c0d3}
+Easter 18
+THM{70ny_r0ll_7h3_366}
+Easter 19
+THM{700_5m4ll_3yy}
+Easter 20
+THM{17_w45_m3_4ll_4l0n6}
 
 
 
