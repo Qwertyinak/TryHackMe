@@ -2818,6 +2818,111 @@ THM{17_w45_m3_4ll_4l0n6}
 
 
 
+hc0n Christmas CTF
+What is the user flag?
+thm{hc0n_christmas_2019!!!}
+What is the root flag?
+thm{3xplo1t_my_m1nd}
+
+
+
+LazyAdmin
+What is the user flag?
+THM{63e5bce9271952aad1113b6f1ac28a07}
+What is the root flag?
+THM{6637f41d0177b6f37cb20d775124699f}
+
+
+
+Blueprint
+"Lab" user NTML hash decrypted
+root.txt
+THM{aea1e3ce6fe7f89e10cea833ae009bee}
+
+
+
+Basic Malware RE
+What is the flag of which that MD5 gets generated?
+FLAG{CAN-I-MAKE-IT-ANYMORE-OBVIOUS}
+What is the flag of which that MD5 gets generated?
+FLAG{STACK-STRINGS-ARE-BEST-STRINGS}
+What is the flag of which that MD5 gets generated?
+FLAG{RESOURCES-ARE-POPULAR-FOR-MALWARE}
+
+
+
+Reversing ELF
+What is the flag?
+flag{not_that_kind_of_elf}
+What is the super secret password ?
+super_secret_password
+What is the flag ?
+flag{if_i_submit_this_flag_then_i_will_get_points}
+What is the flag?
+f0r_y0ur_5ec0nd_le55on_unbase64_4ll_7h3_7h1ng5
+What is the password ?
+my_m0r3_secur3_pwd
+What is the input ?
+OfdlDSA|3tXb32~X3tX@sX`4tXtz
+What is the password ?
+1337_pwd
+What is the flag ?
+flag{much_reversing_very_ida_wow}
+What is the flag ?
+flag{at_least_this_cafe_wont_leak_your_credit_card_numbers}
+
+
+
+Ninja Skills
+Which of the above files are owned by the best-group group(enter the answer separated by spaces in alphabetical order)
+D8B3 v2Vb
+Which of these files contain an IP address?
+oiMO
+Which file has the SHA1 hash of 9d54da7584015647ba052173b84d45e8007eba94
+c4ZX
+Which file contains 230 lines?
+bny0
+Which file's owner has an ID of 502?
+X1Uy
+Which file is executable by everyone?
+8V2L
+
+
+
+Agent Sudo
+How many open ports?
+3
+How you redirect yourself to a secret page?
+user-agent
+What is the agent name?
+chris
+FTP password
+crystal
+Zip file password
+alien
+steg password
+Area51
+Who is the other agent (in full name)?
+james
+SSH password
+hackerrules!
+What is the user flag?
+b03d975e8c92a7c04146cfa7a5a313c7
+What is the incident of the photo called?
+Roswell alien autopsy
+CVE number for the escalation 
+CVE-2019-14287
+What is the root flag?
+b53a02f55b57d4439e3341834d70c062
+(Bonus) Who is Agent R?
+DesKel
+
+
+
+
+
+
+
 
 
 
