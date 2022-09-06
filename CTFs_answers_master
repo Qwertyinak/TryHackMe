@@ -3052,6 +3052,109 @@ The root flag
 
 
 
+Develpy
+user.txt
+cf85ff769cfaaa721758949bf870b019
+root.txt
+9c37646777a53910a347f387dce025ec
+
+
+
+Dav
+user.txt
+449b40fe93f78a938523b7e4dcd66d2a
+root.txt
+101101ddc16b0cdf65ba0b8a7af7afa5
+
+
+
+Library
+user.txt
+6d488cbb3f111d135722c33cb635f4ec
+root.txt
+e8c8c6c256c35515d1d344ee0488c617
+
+
+
+Thompson
+user.txt
+39400c90bc683a41a8935e4719f181bf
+root.txt
+d89d5391984c0450a95497153ae7ca3a
+
+
+
+Boiler CTF
+File extension after anon login
+txt
+What is on the highest port?
+ssh
+What's running on port 10000?
+webmin
+Can you exploit the service running on that port? (yay/nay answer)
+nay
+What's CMS can you access?
+joomla
+The interesting file name in the folder?
+log.txt
+Where was the other users pass stored(no extension, just the name)?
+backup
+user.txt
+You made it till here, well done.
+What did you exploit to get the privileged user?
+find
+root.txt
+It wasn't that hard, was it?
+
+
+
+Simple CTF
+How many services are running under port 1000?
+2
+What is running on the higher port?
+ssh
+What's the CVE you're using against the application? 
+CVE-2019-9053
+To what kind of vulnerability is the application vulnerable?
+sqli
+What's the password?
+secret
+Where can you login with the details obtained?
+ssh
+What's the user flag?
+G00d j0b, keep up!
+Is there any other user in the home directory? What's its name?
+sunbath
+What can you leverage to spawn a privileged shell?
+vim
+What's the root flag?
+W3ll d0n3. You made it!
+
+
+
+Anonforce
+user.txt
+606083fd33beb1284fc51f411a706af8
+root.txt
+f706456440c7af4187810c31c6cebdce
+
+
+
+Basic Pentesting
+What is the name of the hidden directory on the web server(enter name without /)? 
+development
+What is the username? 
+jan
+What is the password? 
+armando
+What service do you use to access the server(answer in abbreviation in all caps)?
+SSH
+What is the name of the other user you found(all lower case)?
+kay
+What is the final password you obtain? 
+heresareallystrongpasswordthatfollowsthepasswordpolicy$$
+
+
 
 
 
