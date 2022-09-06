@@ -2919,10 +2919,136 @@ DesKel
 
 
 
+Borderlands
+What is the API key that fits the following pattern: "AND*"
+ANDVOWLDLAS5Q8OQZ2tuIPGcOu2mXk
+What is the API key that fits the following pattern: "WEB*"
+WEBLhvOJAH8d50Z4y5G5g4McG1GMGD
+What is the API key that fits the following pattern: "GIT*"
+GITtFi80llzs4TxqMWtCotiTZpf0HC
+What is the flag in the /var/www directory of the web app host? {FLAG:Webapp:XXX}
+{FLAG:Webapp:48a5f4bfef44c8e9b34b926051ad35a6}
+What is the flag in the /root/ directory of router1? {FLAG:Router1:XXX}
+{FLAG:Router1:c877f00ce2b886446395150589166dcd}
+What flag is transmitted from flag_server to flag_client over UDP? {FLAG:UDP:XXX}
+{FLAG:UDP:3bb271d020df6cbe599a46d20e9fcb3c}
+What flag is transmitted from flag_server to flag_client over TCP? {FLAG:TCP:XXX}
+{FLAG:TCP:8fb04648d6b2bd40af6581942fcf483e}
 
 
 
+Wgel CTF
+User flag
+057c67131c3d5e42dd5cd3075b198ff6
+Root flag
+b1b968b37519ad1daa6408188649263d
 
+
+
+HA Joker CTF
+What version of Apache is it?
+2.4.29
+What port on this machine not need to be authenticated by user and password?
+80
+There is a file on this port that seems to be secret, what is it?
+secret.txt
+There is another file which reveals information of the backend, what is it?
+phpinfo.php
+When reading the secret file, We find with a conversation that seems contains at least two users and some keywords that can be intersting, what user do you think it is?
+joker
+What port on this machine need to be authenticated by Basic Authentication Mechanism?
+8080
+At this point we have one user and a url that needs to be aunthenticated, brute force it to get the password, what is that password?
+hannah
+Yeah!! We got the user and password and we see a cms based blog. Now check for directories and files in this port. What directory looks like as admin directory? 
+/administrator/
+We need access to the administration of the site in order to get a shell, there is a backup file, What is this file?
+backup.zip
+We have the backup file and now we should look for some information, for example database, configuration files, etc ... But the backup file seems to be encrypted. What is the password? 
+hannah
+Remember that... We need access to the administration of the site... Blah blah blah. In our new discovery we see some files that have compromising information, maybe db? ok what if we do a restoration of the database! Some tables must have something like user_table! What is the super duper user?
+admin
+Super Duper User! What is the password?
+abcd1234
+At this point, you should be upload a reverse-shell in order to gain shell access. What is the owner of this session?
+www-data
+This user belongs to a group that differs on your own group, What is this group?
+lxd
+What is the name of the file in the /root directory?
+final.txt
+
+
+
+Scripting
+What is the final string?
+HackBack2019=
+Once you have done all operations, what number do you get (rounded to 2 decimal places at the end of your calculation)?
+344769.12
+What is the flag?
+THM{eW-sCrIpTiNg-AnD-cRyPtO}
+
+
+
+Adventure Time
+Content of flag1 – format is tryhackme{************}
+tryhackme{Th1s1sJustTh3St4rt}
+Content of flag2 – format is tryhackme{************}
+tryhackme{N1c30n3Sp0rt}
+Content of flag3 – format is tryhackme{************}
+tryhackme{N0Bl4ckM4g1cH3r3}
+Content of flag4 – format is tryhackme{************}
+tryhackme{P1ngu1nsRul3!}
+Content of flag5 – format is tryhackme{************}
+tryhackme{Th1s1s4c0d3F0rBM0}
+
+
+
+Biohazard
+How many open ports?
+3
+What is the team name in operation
+STARS alpha team
+What is the emblem flag
+emblem{fec832623ea498e20bf4fe1821d58727}
+What is the lock pick flag
+lock_pick{037b35e2ff90916a9abf99129c8e1837}
+What is the music sheet flag
+music_sheet{362d72deaf65f5bdc63daece6a1f676e}
+What is the gold emblem flag
+gold_emblem{58a8c41a9d08b8a4e38d02a4d7ff4843}
+What is the shield key flag
+shield_key{48a7a9227cd7eb89f0a062590798cbac}
+What is the blue gem flag
+blue_jewel{e1d457e96cac640f863ec7bc475d48aa}
+What is the FTP username
+hunter
+What is the FTP password
+you_cant_hide_forever
+
+
+
+Where is the hidden directory mentioned by Barry
+/hidden_closet/
+Password for the encrypted file
+plant42_can_be_destroy_with_vjolt
+What is the helmet key flag
+helmet_key{458493193501d2b94bbab2e727f8db4b}
+What is the SSH login username
+umbrella_guest
+What is the SSH login password
+T_virus_rules
+Who the STARS bravo team leader
+Enrico
+Where you found Chris
+jailcell
+Who is the traitor
+weasker
+The login password for the traitor
+stars_members_are_my_guinea_pig
+The name of the ultimate form
+Tyrant
+The root flag
+3c5794a00dc56c35f2bf096571edf3bf
 
 
 
