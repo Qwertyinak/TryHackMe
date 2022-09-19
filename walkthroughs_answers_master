@@ -75,5 +75,119 @@ Enumeration
 
 
 
+Red Team Fundamentals
+Would vulnerability assessments prepare us to detect a real attacker on our networks? (Yay/Nay) 
+Nay
+During a penetration test, are you concerned about being detected by the client? (Yay/Nay)
+Nay
+Highly organised groups of skilled attackers are nowadays referred to as ...
+Advanced Persistent Threats
+The goals of a red team engagement will often be referred to as flags or...
+crown jewels
+During a red team engagement, common methods used by attackers are emulated against the target. Such methods are usually called TTPs. What does TTP stand for?
+Tactics, techniques and procedures
+The main objective of a red team engagement is to detect as many vulnerabilities in as many hosts as possible (Yay/Nay)
+Nay
+What cell is responsible for the offensive operations of an engagement?
+Red Cell
+What cell is the trusted agent considered part of?
+White Cell
+If an adversary deployed Mimikatz on a target machine, where would they be placed in the Lockheed Martin cyber kill chain?
+Installation
+What technique's purpose is to exploit the target's system to execute code?
+Exploitation
+Click the "View Site" button and follow the example engagement to get the flag
+THM{RED_TEAM_ROCKS}
+
+
+
+Red Team Engagements
+What CIDR range is permitted to be attacked?
+10.0.4.0/22
+Is the use of white cards permitted? (Y/N)
+Y
+Are you permitted to access "*.bethechange.xyz?" (Y/N)
+N
+How many explicit restriction are specified?
+3
+What is the first access type mentioned in the document?
+Phishing
+Is the red team permitted to attack 192.168.1.0/24? (Y/N)
+N
+How long will the engagement last?
+1 Month
+How long is the red cell expected to maintain persistence?
+3 Weeks
+What is the primary tool used within the engagement?
+Cobalt Strike
+When will the engagement end? (MM/DD/YYYY)
+11/14/2021
+What is the budget the red team has for AWS cloud cost?
+$1000
+Are there any miscellaneous requirements for the engagement? (Y/N)
+N
+What phishing method will be employed during the initial access phase?
+Spearphishing
+What site will be utilized for communication between the client and red cell?
+vectr.io
+If there is a system outage, the red cell will continue with the engagement. (T/F)
+F
+When will the phishing campaign end? (mm/dd/yyyy)
+10/23/2021
+Are you permitted to attack 10.10.6.78? (Y/N)
+N
+When a stopping condition is encountered, you should continue working and determine the solution yourself without a team lead. (T/F)
+F
+
+
+
+Red Team Threat Intel
+How many Command and Control techniques are employed by Carbanak?
+2
+What signed binary did Carbanak use for defense evasion?
+Rundll32
+What Initial Access technique is employed by Carbanak?
+Valid Accounts
+Once the chain is complete and you have received the flag, submit it below.
+THM{7HR347_1N73L_12 _4w35om3}
+What web shell is APT 41 known to use?
+ASPXSpy
+What LOLBAS (Living Off The Land Binaries and Scripts) tool does APT 41 use to aid in file transfers?
+certutil
+What tool does APT 41 use to mine and monitor SMS traffic?
+MESSAGETAP
+
+
+
+Red Team OPSEC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
