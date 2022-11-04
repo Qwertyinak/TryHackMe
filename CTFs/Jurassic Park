@@ -1,0 +1,17 @@
+Jurassic Park
+	What is the SQL database called which is serving the shop information?
+		park
+	How many columns does the table have?
+		5
+	Whats the system version?
+		Ubuntu 16.04
+	What is dennis' password?
+		ih8dinos
+	Locate and get the first flag contents.
+		b89f2d69c56b9981ac92dd267f
+	Whats the contents of the second flag?
+		96ccd6b429be8c9a4b501c7a0b117b0a
+	Whats the contents of the third flag?
+		b4973bbc9053807856ec815db25fb3f1
+	Whats the contents of the fifth flag?
+		2a7074e491fcacc7eeba97808dc5e2ec
