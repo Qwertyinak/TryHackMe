@@ -423,6 +423,62 @@ echo tryhackme >> password
 
 
 
+Linux Fundamentals Part 2
+What directional arrow key would we use to navigate down the manual page?
+down
+What flag would we use to display the output in a "human-readable" way?
+-h
+How would you create the file named "newnote"?
+touch newnote
+On the deployable machine, what is the file type of "unknown1" in "tryhackme's" home directory?
+ASCII text
+How would we move the file "myfile" to the directory "myfolder"
+mv myfile /myfolder
+What are the contents of this file?
+THM{FILESYSTEM}
+On the deployable machine, who is the owner of "important"?
+user2
+What would the command be to switch to the user "user2"?
+su user2
+Output the contents of "important", what is the flag?
+THM{SU_USER2}
+What is the directory path that would we expect logs to be stored in?
+/var/log
+What root directory is similar to how RAM on a computer works?
+/tmp
+Name the home directory of the root user
+/root
+
+
+
+Linux Fundamentals Part 3
+Edit "task3" located in "tryhackme"'s home directory using Nano. What is the flag?
+THM{TEXT_EDITORS}
+What are the contents?
+THM{WGET_WEBSERVER}
+If we were to launch a process where the previous ID was "300", what would the ID of this new process be?
+301
+If we wanted to cleanly kill a process, what signal would we send it?
+SIGTERM
+Locate the process that is running on the deployed instance (MACHINE_IP). What flag is given?
+THM{PROCESSES}
+What command would we use to stop the service "myservice"?
+systemctl stop myservice
+What command would we use to start the same service on the boot-up of the system?
+systemctl enable myservice
+What command would we use to bring a previously backgrounded process back to the foreground?
+fg
+When will the crontab on the deployed instance (MACHINE_IP) run?
+@reboot
+What is the IP address of the user who visited the site?
+10.9.232.111
+What file did they access?
+catsanddogs.jpg
+
+
+
+
+
 
 
 
